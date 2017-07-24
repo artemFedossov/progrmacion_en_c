@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1493929331 source:c:\users\yas\desktop\programacion_i\practica-parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"abm.h"
+	"validacionIngreso.h"
+
+1493929197 source:c:\users\yas\desktop\programacion_i\practica-parcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"abm.h"
+	"validacionIngreso.h"
+
+1493929150 source:c:\users\yas\desktop\programacion_i\practica-parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"abm.h"
+	"validacionIngreso.h"
+
+1493928844 c:\users\yas\desktop\programacion_i\practica-parcial\funciones.h
+
+1493929197 c:\users\yas\desktop\programacion_i\practica-parcial\menu.h
+
+1493910016 source:c:\users\yas\desktop\programacion_i\practica-parcial\abm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"abm.h"
+	"validacionIngreso.h"
+
+1493908236 c:\users\yas\desktop\programacion_i\practica-parcial\abm.h
+
+1493929249 c:\users\yas\desktop\programacion_i\practica-parcial\validacioningreso.h
+
+1493929249 source:c:\users\yas\desktop\programacion_i\practica-parcial\validacioningreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"abm.h"
+	"validacionIngreso.h"
+

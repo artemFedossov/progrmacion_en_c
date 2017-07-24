@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1493388606 source:c:\users\yas\desktop\tp_laboratorio\amb\amb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"ingresoValidacion.h"
+
+1493385938 c:\users\yas\desktop\tp_laboratorio\amb\funciones.h
+
+1493388606 c:\users\yas\desktop\tp_laboratorio\amb\amb.h
+
+1492704283 c:\users\yas\desktop\tp_laboratorio\amb\menu.h
+
+1493388606 c:\users\yas\desktop\tp_laboratorio\amb\ingresovalidacion.h
+
+1493388606 source:c:\users\yas\desktop\tp_laboratorio\amb\ingresovalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1493389338 source:c:\users\yas\desktop\tp_laboratorio\amb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"ingresoValidacion.h"
+
+1493385938 source:c:\users\yas\desktop\tp_laboratorio\amb\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"ingresoValidacion.h"
+
+1493385938 source:c:\users\yas\desktop\tp_laboratorio\amb\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"ingresoValidacion.h"
+

@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1491406676 source:d:\programacion i\modelo_parcial_1_eje_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491405146 source:d:\programacion i\modelo_parcial_1_eje_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491404758 d:\programacion i\modelo_parcial_1_eje_1\funciones.h
+
+1491072536 source:k:\programacion i\modelo_parcial_1_eje_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491072456 k:\programacion i\modelo_parcial_1_eje_1\funciones.h
+
+1491079222 source:k:\programacion i\modelo_parcial_1_eje_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491079076 source:k:\programacion i\modelo_parcial_1_eje_1\amb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491078862 k:\programacion i\modelo_parcial_1_eje_1\amb.h
+
+1491072456 k:\programacion i\modelo_parcial_1_eje_1\menu.h
+
+1491072456 k:\programacion i\modelo_parcial_1_eje_1\ingresovalidacion.h
+
+1491072456 source:k:\programacion i\modelo_parcial_1_eje_1\ingresovalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491072456 source:k:\programacion i\modelo_parcial_1_eje_1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491347278 source:d:\programacion i\modelo_parcial_1_eje_1\amb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491346242 d:\programacion i\modelo_parcial_1_eje_1\amb.h
+
+1491397830 d:\programacion i\modelo_parcial_1_eje_1\menu.h
+
+1491404758 d:\programacion i\modelo_parcial_1_eje_1\ingresovalidacion.h
+
+1491404758 source:d:\programacion i\modelo_parcial_1_eje_1\ingresovalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491406600 source:d:\programacion i\modelo_parcial_1_eje_1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491354490 source:e:\programacion i\modelo_parcial_1_eje_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491354234 e:\programacion i\modelo_parcial_1_eje_1\funciones.h
+
+1491346242 e:\programacion i\modelo_parcial_1_eje_1\amb.h
+
+1491072456 e:\programacion i\modelo_parcial_1_eje_1\menu.h
+
+1491072456 e:\programacion i\modelo_parcial_1_eje_1\ingresovalidacion.h
+
+1491072456 source:e:\programacion i\modelo_parcial_1_eje_1\ingresovalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491354244 source:e:\programacion i\modelo_parcial_1_eje_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491072456 source:e:\programacion i\modelo_parcial_1_eje_1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491347278 source:e:\programacion i\modelo_parcial_1_eje_1\amb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491347278 source:c:\users\yas\desktop\programacion_i\modelo_parcial_1_eje_1\amb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491404758 c:\users\yas\desktop\programacion_i\modelo_parcial_1_eje_1\funciones.h
+
+1491346242 c:\users\yas\desktop\programacion_i\modelo_parcial_1_eje_1\amb.h
+
+1491397830 c:\users\yas\desktop\programacion_i\modelo_parcial_1_eje_1\menu.h
+
+1491404758 c:\users\yas\desktop\programacion_i\modelo_parcial_1_eje_1\ingresovalidacion.h
+
+1491407998 source:c:\users\yas\desktop\programacion_i\modelo_parcial_1_eje_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491404758 source:c:\users\yas\desktop\programacion_i\modelo_parcial_1_eje_1\ingresovalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491405146 source:c:\users\yas\desktop\programacion_i\modelo_parcial_1_eje_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+
+1491406600 source:c:\users\yas\desktop\programacion_i\modelo_parcial_1_eje_1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"amb.h"
+	"menu.h"
+	"ingresoValidacion.h"
+

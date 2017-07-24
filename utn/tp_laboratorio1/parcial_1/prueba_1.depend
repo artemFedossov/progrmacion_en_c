@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1493939591 source:d:\prueba_1\amb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"ingresoValidacion.h"
+
+1493944084 source:d:\prueba_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"ingresoValidacion.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"ingresoValidacion.h"
+
+1493943384 d:\prueba_1\funciones.h
+
+1493937092 d:\prueba_1\menu.h
+
+1493938264 d:\prueba_1\amb.h
+
+1493940958 d:\prueba_1\ingresovalidacion.h
+
+1493940958 source:d:\prueba_1\ingresovalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"ingresoValidacion.h"
+
+1493943385 source:d:\prueba_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"ingresoValidacion.h"
+
+1493941401 source:d:\prueba_1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"amb.h"
+	"IngresoValidacion.h"
+

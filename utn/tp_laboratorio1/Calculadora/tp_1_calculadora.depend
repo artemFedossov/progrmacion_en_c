@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1490659646 source:j:\programacion i\tp_1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1490818240 source:j:\programacion i\tp_1_calculadora\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1490797322 j:\programacion i\tp_1_calculadora\funcion.h
+
+1490659646 source:d:\programacion i\tp_1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1491313906 d:\programacion i\tp_1_calculadora\funcion.h
+
+1491313906 source:d:\programacion i\tp_1_calculadora\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1490659646 source:e:\programacion i\tp_1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1491313906 e:\programacion i\tp_1_calculadora\funcion.h
+
+1491314762 source:e:\programacion i\tp_1_calculadora\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1490899158 source:k:\programacion i\tp_1_calculadora\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1490898964 k:\programacion i\tp_1_calculadora\funcion.h
+
+1490659646 source:k:\programacion i\tp_1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1490920556 source:f:\programacion i\tp_1_calculadora\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1490898964 f:\programacion i\tp_1_calculadora\funcion.h
+
+1490659646 source:f:\programacion i\tp_1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1491314762 source:c:\users\yas\desktop\tp_1_calculadora\calculadora\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1491313906 c:\users\yas\desktop\tp_1_calculadora\calculadora\funcion.h
+
+1490659646 source:c:\users\yas\desktop\tp_1_calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+

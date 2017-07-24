@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1477090178 source:c:\users\yasmin\desktop\tp2\tp 03\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1477090179 c:\users\yasmin\desktop\tp2\tp 03\funciones.h
+
+1477101417 source:c:\users\yasmin\desktop\tp2\tp 03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1477087980 source:e:\tp 03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1477086778 e:\tp 03\funciones.h
+
+1477088020 source:e:\tp 03\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496452005 source:c:\users\preifman\desktop\carpeta\viejo\tp 03\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496451090 c:\users\preifman\desktop\carpeta\viejo\tp 03\funciones.h
+
+1496451871 source:c:\users\preifman\desktop\carpeta\viejo\tp 03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496452717 source:c:\users\preifman\desktop\carpeta2\tp_laboratorio1\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496451090 c:\users\preifman\desktop\carpeta2\tp_laboratorio1\peliculas\funciones.h
+
+1496453073 source:c:\users\preifman\desktop\carpeta2\tp_laboratorio1\peliculas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
